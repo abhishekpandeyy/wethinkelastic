@@ -29,3 +29,9 @@ gsap.to('.vidST', {
 })
 
 
+// var importImg=document.querySelectorAll('.import');
+
+// importImg.forEach(function(elem){
+
+
+// })
